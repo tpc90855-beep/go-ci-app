@@ -1,0 +1,5 @@
+go-ci-app
+*.log
+.vscode/
+.idea/
+.DS_Store
